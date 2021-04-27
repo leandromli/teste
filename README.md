@@ -54,7 +54,7 @@ target="black"
 style="position:fixed;bottom:10px;right:10px;"></a>
 <a href="https://www.whatsapp.com/"
 
-<h3 style="color: rgb(238, 231, 231)"></h3>//wa.me/5588996411010</h3>
+<h3 style="color: rgb(238, 231, 231)"></h3>//wa.me/5588996411010</h3>2
 <a href="https://api.whatsapp.com/send?phone5588996411010&text=Texto%20aqui"></a>
 
 <p> &#x1F1E7 p
