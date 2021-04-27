@@ -45,7 +45,6 @@
 <p style="color:blanchedalmond">Esse é meu primeiro passo."</p> 
 <p style="color:blanchedalmond">Este é um momento muito importante, estou criando sites!</p> 
 <hr = spPropContainer color="white" >
-<p style="color:rgba(218, 7, 7, 0.986);"> Estudante de programação e Profional de TI. </p>
 <hr = spPropContainer color ="red">
 <img src="https://lh3.googleusercontent.com/-Hm-pe8uMABg/YB3ELc0agKI/AAAAAAAAAMc/qiflGxrQbD0W2zIQxw89Bbwt0Nlefuf5wCEwYBhgLKtMDAL1Ocqy1EJPcrnNhdctKABHNEIxIbsj3ove2frd1aGn_IEGZKYbOmySoEYLShng0m79MDz5J-Nay8Xo-Z1DpqF8PeuYdF5MvAzFKCGTsSxeNUAxPEn68Nobqbfs46ebyxm2RmeefUiHBDh80nDfMVH1BWr1uasChyc1SkvnjGklV8qfNwFKZpyumShjg8zNbfLv7XH7KbH4GVC65r_HzLX7QoCTBPkC3vOHsADgVGU7pFuUIO7TwEBuVhn-_E92QKQiLSuRzorDoC9U4xQ9GCi_GRPuJPD2ORU4bDRLPyGN_ieKGjYZbxM24Q8SUE0orMQwXQm7ivwPJlHBSh1icTeBrP7wt2Uc14zwkrNqXNWDwZFCuSDjgZXk22lACvRjVkhlMjYSSRe6KXTgzBFMq-ddu1K_puwbmRw-nHj8KvarW_mdYAdO4RhsVmS1rUCWtcfNMoLlU978ZG8tzByvIuTWwrvIgprUbxRg9q7EHlN7CxV1fh82qwNIYkdaExYZoCZLJPQKOrcZLdsA400fd-u4yBmkySL1kp5O8V7QNq2TR5yHAXshqEhiRXcBbxgUR6kyoIeMi8G2XLEmr9bdOYJzvFzzmU2rBR3rAKW72zHneq6IwjZjJggY/w140-h140-p/foto%2Bleandro.jpg" alt="">
 <p style="color:blanchedalmond">Contato.</p>
